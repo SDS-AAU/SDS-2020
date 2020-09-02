@@ -26,15 +26,6 @@
 
 ### [LSTM for Sequence-2S-Sequence prediction (R)](https://raw.githack.com/SDS-AAU/M3-2019/master/notebooks/M3_9_seq2seq_LSTM.html) [-> OPEN ON KAGGLE](https://www.kaggle.com/danielhain/sds-m3-9-seq2seq-lstm)
 
-
-
-
-# Further Resources
-
-## Asignments
-* [Assignment 1: Trump vs. GPT-2](assignments/assignment1/readme.md) (Deadline Nov. 18th)
-* [DL&AI - Tutorial Portfolio](assignments/dl_tutorial/readme.md) (Deadline Nov. 22nd)
-* [Group Assignment](assignments/group_assignment/readme.md) (Deadline Nov. 29nd)
  
 ## Tutorials & Knowledge
 
