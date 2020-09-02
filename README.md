@@ -65,7 +65,7 @@ While this course does not come with a list of mandatory readings, we will often
 # Modules
 The course is structured in 3 modules, where their content can be found in the corresponding subfolders
 
-## [M1: Applied Data Science and Machine Learning](https://sds-aau.github.io/SDS-master/M1)
+## [M1: Applied Data Science and Machine Learning](https://sds-aau.github.io/SDS-2020/M1)
 
 This module will prove a condensed introduction to the “Data Science Pipeline”, introducing students to methods, techniques, and workflows in applied data analytics and machine learning, including data acquisition, preparation, analysis, visualization, and communication.
 
