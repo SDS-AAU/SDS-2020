@@ -34,39 +34,3 @@
 
 ### [Natural language Processing: Case Studies (R)](https://raw.githack.com/SDS-AAU/M2-2019/master/notebooks/M2_8_NLP_case.html) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SDS-AAU/M2-2019/blob/master/notebooks/M2_8_NLP_case.ipynb#offline=true&sandboxMode=true)
 
-
-# Further Resources
-
-## Asignments
-* [Assignment 1](https://github.com/SDS-AAU/M2-2019/tree/master/notebooks/assignments/assignment_1)
-* [Assignment 2](https://github.com/SDS-AAU/M2-2019/tree/master/notebooks/assignments/assignment_2)
-* [Final Group Assignment](https://github.com/SDS-AAU/M2-2019/blob/master/notebooks/assignments/assignment_final/README.md)    
-    
-
-
-## Tutorials & Knowledge
-
-### Network Analysis
-
-#### General
-
-* [Awesome Network Analysis Resource Collection](https://github.com/briatte/awesome-network-analysis)
-
-#### Network Analysis in R
-
-#### Network Analysis in Python
-
-
-### Natural Language Processing
-
-#### General
-
-#### Natural Language Processing in R
-
-* [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/)
-
-#### Natural Language Processing in Python
-
-
-
-
