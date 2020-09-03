@@ -15,7 +15,9 @@ Social Data Science, Aalborg University Business School, 2020
 
 * Key Dates
   * In-person workshop days: W37 - 08.09.2020, W38 - 18.09.2020
-  * Group assignment: 25.09.2020 - 01.10.2020
+  * M1 individual assignment 1: hand-in deadline 10.09.2020 23:59:00 at the latest (Peergrade)
+  * M1 individual assignment 2: hand-in deadline 22.09.2020 23:59:00 at the latest (Peergrade)
+  * Group assignment: 25.09.2020 - 01.10.2020 (Digital Eksamen)
   
 * Topics
    * W 36: Introduction & landing
@@ -28,7 +30,9 @@ Social Data Science, Aalborg University Business School, 2020
 
 * Key Dates
   * In-person workshop days: W42 - 12.10.2020, W43 - 22.10.2020
-  * Group assignment: 30.10.2020-05.11.2020
+  * M2 individual assignment 1: hand-in deadline 15.10.2020 23:59:00 at the latest (Peergrade)
+  * M2 individual assignment 2: hand-in deadline 28.10.2020 23:59:00 at the latest (Peergrade)
+  * Group assignment: 30.10.2020-05.11.2020 (Digital Eksamen)
   
 * Topics
    * W 41: Introduction to Network Analysis
@@ -40,7 +44,8 @@ Social Data Science, Aalborg University Business School, 2020
 
 * Key Dates
   * In-person workshop days: W47 - 16.11.2020 + 19.12.2020, W48 - 26.11.2020
-  * Group assignment: 03.12.2020-09.12.2020
+  * M3 individual assignment 1: hand-in deadline 01.12.2020 23:59:00 at the latest (Peergrade)
+  * Group assignment: 03.12.2020-09.12.2020 (Digital Eksamen)
   
 * Topics
    * W 46: Introduction to Artificial Neural Networks (ANN) & Deep Learning (DL)
