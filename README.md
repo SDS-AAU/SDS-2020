@@ -9,10 +9,7 @@ Social Data Science, Aalborg University Business School, 2020
 ### General
 
 * General structure:
-   * Pre-recorded lectures usually online by Monday Morning
-   * Q&A usually in the allocated timeslots Tuesdays 4.15-5.15pm
-
-* Final (M4) exam: tba. (early December)
+   * Pre-recorded lectures posted online. Announcements on Teams.
 
 ### M1: Week 36-41
 
