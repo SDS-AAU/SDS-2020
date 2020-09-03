@@ -40,7 +40,7 @@ Not part of the grade, just for you to get a feel about where you are
 
 ## Data Manipulation & Exploration 
 
- EDA-Case for 8/9: Open Policing Project
-   * Python Video [1](https://www.loom.com/share/4c5b046d6cf5465cbf6ca50f8d037461) [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/data_exploration_case_py.ipynb)
+   * Python Video [1](https://www.loom.com/share/4c5b046d6cf5465cbf6ca50f8d037461) [2](https://www.loom.com/share/43b5be68c59b44b3b9f3a3e4bf1a3fc8) [3](https://www.loom.com/share/6a5b11c1ad004ae48875528767253590) [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/data_exploration_case_py.ipynb)
    * R Video [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/EDA_case_policing_R.ipynb)
+
 
