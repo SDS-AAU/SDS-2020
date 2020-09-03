@@ -33,7 +33,7 @@
    * R [Video](https://www.loom.com/share/0f3f166a4234429bb1bf2e8c443bad39) [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/DS_basics_example_group_merge_R.ipynb#offline=true&sandboxMode=true)
    * Python [Video](https://www.loom.com/share/257a4e764bd74ee7b39f1027821e0838) [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/DS_basics_example_group_merge_py.ipynb)
 
-* **Homework (W36)**
+### **Homework (W36)**
 Not part of the grade, just for you to get a feel about where you are
 - Data manipulation example: join & group_by - see end of the notebooks (easy "your turn" and advanced "extended homework"), take it as a challenge. Try to solve. Don't be worried if things don't work out right away
 - Open Policing Project: Check out the videos and notebooks to get familiar with the case-work next week (8/9)
