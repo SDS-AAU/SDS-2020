@@ -46,6 +46,9 @@ Not part of the grade, just for you to get a feel about where you are...
    * Application: R [Video](https://www.loom.com/share/c1b84f6e59ce4b02935b0088744cfc5b) [Html](https://sds-aau.github.io/SDS-master/M1/notebooks/EDA_dataviz_application_R.nb.html) [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/EDA_dataviz_application_R.ipynb)
    * Application: Python Video (coming) [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/Notebooks/EDA_dataviz_application_Py.ipynb)
 
+## Workshop EDA hypothesis generation
+
+* [R team](https://sds-aau.github.io/SDS-master/M1/Notebooks/exercises/EDA_prdeictive_policing_workshop.nb.html)
 
 # Part II: Unsupervised Machine Learning (UML)
 
