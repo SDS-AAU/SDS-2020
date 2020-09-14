@@ -62,6 +62,6 @@ This is a Peergrade assignment, deadline 10.09.2020 23:59:00
 
 * Recommended Datacamp exercises:
    * [Python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) 
-   * [R] (https://learn.datacamp.com/courses/unsupervised-learning-in-r)
+   * [R](https://learn.datacamp.com/courses/unsupervised-learning-in-r)
    
  # Part III: Supervised Machine Learning
