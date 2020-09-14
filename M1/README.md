@@ -59,5 +59,9 @@ This is a Peergrade assignment, deadline 10.09.2020 23:59:00
 * Theory: Introduction to unsupervised ML [Slides](https://SDS-AAU.github.io/SDS-master/M1/slides/SDS-M1-UML_Intro.pdf) [Video](https://www.loom.com/share/c5c8daaf85b242cb935cae53613c23e3)
    *  Application Python: Video [1-dimensionality reduction](https://www.loom.com/share/cf84d4225a064aa2857d26ae82f94588) [2-clustering](https://www.loom.com/share/76920b0d281a422cada427226ed7e54c) [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/ML_intro_UML.ipynb)
    * Application R: Video [1: EDA & Dimensionality Reduction](https://www.loom.com/share/d3934db4292840afadc8626e7fb613b5) [2: Clustyering:](https://www.loom.com/share/60a9d3ca4d5f4ce790f51562af7da6fc) [Html](https://sds-aau.github.io/SDS-master/M1/Notebooks/UML_application_R.nb.html) [Colab](https://github.com/SDS-AAU/SDS-master/blob/master/M1/Notebooks/UML_application_R.ipynb)
+
+* Recommended Datacamp exercises:
+   * [Python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) 
+   * [R] (https://learn.datacamp.com/courses/unsupervised-learning-in-r)
    
  # Part III: Supervised Machine Learning
