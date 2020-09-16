@@ -71,7 +71,7 @@ This is a Peergrade assignment, deadline 10.09.2020 23:59:00
      
      * Recommended Datacamp exercises:
    * [Python - Intro to supervised learning](https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn)
-   * [Python - Decision Tree modeling] (https://learn.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
+   * [Python - Decision Tree modeling](https://learn.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
    * [R - Supervised classification](https://learn.datacamp.com/courses/supervised-learning-in-r-classification)
-   * [R - Supervised Regression] (https://learn.datacamp.com/courses/supervised-learning-in-r-regression)
+   * [R - Supervised Regression](https://learn.datacamp.com/courses/supervised-learning-in-r-regression)
    
