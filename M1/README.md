@@ -68,3 +68,10 @@ This is a Peergrade assignment, deadline 10.09.2020 23:59:00
  
  * Theory: Introduction to supervised ML [Slides](https://SDS-AAU.github.io/SDS-master/M1/Notebooks/SML_introduction_theory.html) Video [1: Introduction & Statistics Refresher](https://www.loom.com/share/1092fff1eb8843a0b084618a8118c3db) Video [2: Generalization, Hyperparameter Tuning & Model Clases](https://www.loom.com/share/b985e4e058b6459f955bf6280d3ad560)
      * Application R: Video comming soon  [Html](https://sds-aau.github.io/SDS-master/M1/Notebooks/SML_application_R.nb.html) [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/Notebooks/SML_application_R.ipynb)
+     
+     * Recommended Datacamp exercises:
+   * [Python - Intro to supervised learning](https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn)
+   * [Python - Decision Tree modeling] (https://learn.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
+   * [R - Supervised classification](https://learn.datacamp.com/courses/supervised-learning-in-r-classification)
+   * [R - Supervised Regression] (https://learn.datacamp.com/courses/supervised-learning-in-r-regression)
+   
