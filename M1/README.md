@@ -66,6 +66,10 @@ This is a Peergrade assignment, deadline 10.09.2020 23:59:00
    * [Python](https://learn.datacamp.com/courses/unsupervised-learning-in-python) 
    * [R](https://learn.datacamp.com/courses/unsupervised-learning-in-r)
    
+### **Assignment 2 (W38)** Pokemon clusters
+This is a Peergrade assignment, deadline 22.09.2020 23:59:00
+[M1 - Assignment 2](https://github.com/SDS-AAU/SDS-2020/blob/master/M1/Assignments/M1A2.pdf)
+   
    
 ## In-Class Nomads workshop
 
