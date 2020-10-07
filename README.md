@@ -2,7 +2,7 @@
 Social Data Science, Aalborg University Business School, 2020
 
 ## General Information
-* The corresponding AAU Moodle course page can be found [here](https://www.moodle.aau.dk/course/view.php?id=35303). Note that `github` rather than Moodle will represent the central hub for teaching material. At SDS we believe in the power of open science and open education. Following Aalborg Universitie's strategy "Knowledge for the world", we make all our material available outside password protected university systems.
+* The corresponding Aalborg University Moodle course page can be found [here](https://www.moodle.aau.dk/course/view.php?id=35303). Note that `github` rather than Moodle will represent the central hub for teaching material. At SDS we believe in the power of open science and open education. Following AAU's "Knowledge for the world" strategy, we make all our material available outside password protected university systems.
 
 ## Schedule and Calendar:
 
