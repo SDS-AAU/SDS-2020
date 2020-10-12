@@ -17,4 +17,4 @@
 
 ### Assignment 1
 
-* All you need to know is to be found here: https://github.com/SDS-AAU/SDS-master/blob/master/M2/assignments/SDS_M2_assignment1.pdf
+* All you need to know is to be found [here](https://github.com/SDS-AAU/SDS-master/blob/master/M2/assignments/SDS_M2_assignment1.pdf)
