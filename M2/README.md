@@ -19,3 +19,12 @@
 ### Assignment 1
 
 * All you need to know is to be found [here](https://github.com/SDS-AAU/SDS-master/blob/master/M2/assignments/SDS_M2_assignment1.pdf)
+
+
+## Part II: Natural Language Processing
+
+* Theory: 
+   * [M2: NLP intro - level of analysis](https://www.loom.com/share/289e4e0e91c24e759ae84a11cb06f78c?sharedAppSource=personal_library)
+   * [M2: NLP intro - Text representation](https://www.loom.com/share/d97ba6e1e1a344899c83616b290cd888?sharedAppSource=personal_library)
+   * [M2: NLP intro - From BoW to Topic Modeling and Embeddings](https://www.loom.com/share/2a7b0791c906457cab0c57e0618dc68b?sharedAppSource=personal_library)
+   * [History of NLP in Industry - Yoav Goldberg: The missing elements in NLP (spaCy IRL 2019) - YouTube](https://youtu.be/e12danHhlic)
