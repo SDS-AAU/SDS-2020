@@ -39,3 +39,12 @@
 
 * Application: Working with long text and extracting text elements
    * Python: [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/NLP_Longtext_py.ipynb) [Video](https://www.loom.com/share/e5480f30f379471e975d9080ecd6bb44) can be watched at 1.5x :wink: Link to News-scraping tutorial in the notebook.
+
+### Workshop 22.10.2020
+
+#### Data: 
+
+The data is gz-compressed JSON format
+
+* 50k tweets from members/groups in the US Congress by Party (R:0, 1:D): https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pol_tweets.gz
+* ~8k tweets on the 2020 presidential debate: https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pres_debate_2020.gz
