@@ -50,3 +50,6 @@ The data is gz-compressed JSON format
 
 * 50k tweets from members/groups in the US Congress by Party (R:0, 1:D): https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pol_tweets.gz
 * ~8k tweets on the 2020 presidential debate: https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pres_debate_2020.gz
+
+
+* R: [Html (work in progress)](https://sds-aau.github.io/SDS-master/M2/exercises/NLP_workshop_1_debate_tweets.nb.html) 
