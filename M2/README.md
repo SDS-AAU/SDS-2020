@@ -36,11 +36,12 @@
 
 * Application: String Manipulation
    * Python: [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/NLP_intro_py.ipynb) [Video 1](https://www.loom.com/share/44d9ad8917fb4b9585110c507640ff3c?sharedAppSource=personal_library) [Video 2](https://www.loom.com/share/109433b5063d445aa2dd1b19d263afee?sharedAppSource=personal_library)
-   * R: Video [Coming soon] [Html](https://sds-aau.github.io/SDS-master/M2/notebooks/NLP_intro_R.nb.html) [Colab comming soon](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/NLP_intro_R.ipynb)
+   * R: Video [1: Introduction to text analysis in R](https://www.loom.com/share/5648ecba2c26429aaebcda7ba8ffb83a?from_recorder=1) [Html](https://sds-aau.github.io/SDS-master/M2/notebooks/NLP_intro_R.nb.html) [Colab comming soon](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/NLP_intro_R.ipynb)
 
 * Application: Working with long text and extracting text elements
    * Python: [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/NLP_Longtext_py.ipynb) [Video](https://www.loom.com/share/e5480f30f379471e975d9080ecd6bb44) can be watched at 1.5x :wink: Link to News-scraping tutorial in the notebook.
-
+    * R: Video [comming soon]() [Html (work in progress)](https://sds-aau.github.io/SDS-master/M2/notebooks/NLP_long_text_R.nb.html) [Colab comming soon](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/NLP_long_text_R.ipynb)
+    
 ### Workshop 22.10.2020
 
 #### Data: 
@@ -50,6 +51,10 @@ The data is gz-compressed JSON format
 * 50k tweets from members/groups in the US Congress by Party (R:0, 1:D): https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pol_tweets.gz
 * ~8k tweets on the 2020 presidential debate: https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pres_debate_2020.gz
 
+
+* R: [Html (work in progress)](https://sds-aau.github.io/SDS-master/M2/exercises/NLP_workshop_1_debate_tweets.nb.html) 
+
+* Python [Colab Notebook](https://colab.research.google.com/drive/1dTza-pYbXjg2Qr0DpO2A9bVNtuhkg2mS?usp=sharing) You have edit rights. Please feel free to comment into the NB and extend.
 
 ### Assignment 2
 
