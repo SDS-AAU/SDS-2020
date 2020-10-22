@@ -24,7 +24,7 @@
 ### Assignment 1
 
 * All you need to know is to be found [here](https://github.com/SDS-AAU/SDS-master/blob/master/M2/assignments/SDS_M2_assignment1.pdf)
-
+* Minimal solution [Python](https://colab.research.google.com/drive/1Otx1-IP3P-Hu45_vDmUpA5ybp-enaqXh?usp=sharing)
 
 ## Part II: Natural Language Processing
 
@@ -49,3 +49,8 @@ The data is gz-compressed JSON format
 
 * 50k tweets from members/groups in the US Congress by Party (R:0, 1:D): https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pol_tweets.gz
 * ~8k tweets on the 2020 presidential debate: https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pres_debate_2020.gz
+
+
+### Assignment 2
+
+* All you need to know is to be found [here](https://github.com/SDS-AAU/SDS-2020/blob/master/M2/assignments/M2A2.pdf)
