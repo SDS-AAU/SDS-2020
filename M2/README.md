@@ -22,7 +22,7 @@
  
 ### Workshop: Danish Power Elites
 
-* R [html[(https://sds-aau.github.io/SDS-master/M2/exercises/networks_danish_elite.nb.html)
+* R [html](https://sds-aau.github.io/SDS-master/M2/exercises/networks_danish_elite.nb.html)
 
 ### Assignment 1
 
