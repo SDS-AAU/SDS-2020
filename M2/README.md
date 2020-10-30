@@ -68,4 +68,10 @@ The data is gz-compressed JSON format
 
 * All you need to know is to be found [here](https://github.com/SDS-AAU/SDS-2020/blob/master/M2/assignments/M2A2.pdf)
 
+### Workshop 30.10.2020
+
+* R solutions
+   * [Assignment 1](https://sds-aau.github.io/SDS-master/M2/exercises/nw_assignment_solution.nb.html)
+   * [Assignment 2](https://sds-aau.github.io/SDS-master/M2/exercises/nlp_assignment_solution.nb.html)
+
 
