@@ -75,3 +75,6 @@ The data is gz-compressed JSON format
    * [Assignment 2](https://sds-aau.github.io/SDS-master/M2/exercises/nlp_assignment_solution.nb.html)
 
 
+### Group assignment [PDF](https://github.com/SDS-AAU/SDS-2020/blob/master/M2/assignments/M3GA.pdf)
+* Deadline: 5 November 12:00
+* Submission on https://digitaleksamen.aau.dk/
