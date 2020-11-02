@@ -1,11 +1,11 @@
-# Requirements outline DSBA assignment
+# Requirements outline SDS Project
 **Roman Jurowetzki - Daniel Hain**
 
 ## Format
 
 * Functional and self-contained notebook
 * Happy to see GitHub repos (which you can use as your portfolio in the job market)
-* Project report (20-ish pages - max. 30)
+* Project report (30-ish pages - max. 45)
 * Some study relation (but that is debatable and not necessarily required)
 * Report is a (semi/non) technical documentation. Think about a corporate censor that you try to inform
 
