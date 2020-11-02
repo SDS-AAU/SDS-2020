@@ -78,3 +78,8 @@ Focuses on analyzing a variety of unstructured data sources. Particularly, stude
 
 ## [M3: Deep Learning and Artificial Intelligence for Analytics](https://sds-aau.github.io/SDS-2020/M3)
 Introduces to the most recent developments in machine learning, which are deep learning and artificial intelligence applications. The module will provide a solid foundation for this exciting and rapidly developing field. Students will learn whether and how to apply deep learning techniques for business analytics, and acquire proficiency in new methods autonomously.
+
+## M4: Semester Project
+
+* Submission ~8/1 2021
+* [Requirements](https://sds-aau.github.io/SDS-2020/M4/requirements.md)
