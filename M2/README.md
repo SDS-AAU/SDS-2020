@@ -62,7 +62,7 @@ The data is gz-compressed JSON format
 
 * R: [Html](https://sds-aau.github.io/SDS-master/M2/exercises/NLP_workshop_1_debate_tweets.nb.html) 
 
-* Python [Colab Notebook](https://colab.research.google.com/drive/1dTza-pYbXjg2Qr0DpO2A9bVNtuhkg2mS?usp=sharing) You have edit rights. Please feel free to comment into the NB and extend.
+* Python [Colab Notebook](https://colab.research.google.com/drive/1dTza-pYbXjg2Qr0DpO2A9bVNtuhkg2mS?usp=sharing) You have edit rights. Please feel free to comment into the NB and extend. [Video](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=0d64afeb-05a8-4cce-b803-ac6501182633)
 
 ### Assignment 2
 
