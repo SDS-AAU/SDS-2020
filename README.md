@@ -82,4 +82,4 @@ Introduces to the most recent developments in machine learning, which are deep l
 ## M4: Semester Project
 
 * Submission ~8/1 2021
-* [Requirements](https://sds-aau.github.io/SDS-2020/M4/requirements.md)
+* [Requirements](https://sds-aau.github.io/SDS-2020/M4/requirements/)
