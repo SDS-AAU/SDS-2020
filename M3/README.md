@@ -1,39 +1,41 @@
-# M3- Deep Learning
+# M3: Deep Learning and Artificial Intelligence for Analytics
+Introduces to the most recent developments in machine learning, which are deep learning and artificial intelligence applications. The module will provide a solid foundation for this exciting and rapidly developing field. Students will learn whether and how to apply deep learning techniques for business analytics, and acquire proficiency in new methods autonomously.
 
-- [Slides about contents and structure](static/m3_structure.pdf)
+# Part I: Introduction to Artificial Neural Networks & Deep Learning
 
-## Part I: Introduction to Artificial Neural Networks & Deep Learning
+## Neural networks: Theory, history and application
 
-### [Introduction to Artificial Neural Networks & Deep Learning (R)](https://raw.githack.com/SDS-AAU/M3-2019/master/notebooks/M3_1_Intro_ANN.html) [-> OPEN ON KAGGLE](https://www.kaggle.com/danielhain/sds-m3-1-introduction-to-neural-networks)
+* Theory: Introduction to Artificial Neural Networks (ANNs) & Deep Learning (DL): [Video](https://www.loom.com/share/418cea49ec694fe4b42e99088bfdbb84) [Slides](https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_intro.html) 
 
-* Exercises
+* Architecture: Neurons, weights, biases, losses
+* Dynamics: feed-forward, back-propagation
+* Infrastructure: Packaging, hardware, data-structures
 
-    * Exercise 1: My first deep learning model [OPEN ON KAGGLE](https://www.kaggle.com/danielhain/sds-m3-1-supervised-ml-exercise-1)
+## Simple feed-forward networks (ANNs)
+* Application: Python multiclass with Penguins [Video](https://www.loom.com/share/cab10cb936294618a43fce5e8e30a51c) [Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/M3_ANN_Python_Intro.ipynb)
+## Convolutional neural networks (CNNs)
 
-## Part II: Convolutional Neural Networks - A Gentle Introduction to Computer Vision
+## Recurrent neural networks (RNNs / LSTMs)
 
-### Intro to CNNs - Cats, Dogs and Hotdogs [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SDS-AAU/M3-2019/blob/master/notebooks/CNN_intro.ipynb#&offline=true&sandboxMode=true)
+## Advanced architectures
+* Autoencoders / Seq2seq models
+* Transformers
 
-### Transfer learning - Fine-tuning large pretrained models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SDS-AAU/M3-2019/blob/master/notebooks/CNN_and_transfer_learning.ipynb#&offline=true&sandboxMode=true)
+## Prep:
 
-## Part III: Recurrent Neural networks
+### Datacamp:
 
-### [Recurrent Neural Networks (R)](https://raw.githack.com/SDS-AAU/M3-2019/master/notebooks/M3_5_Recurrent_NNs.html) [-> OPEN ON KAGGLE](https://www.kaggle.com/danielhain/sds-m3-5-recurrent-neural-networks)
+* Introduction to TensorFlow in R
+* Introduction to Deep Learning in Python
+* Image Processing with Keras in Python
+* Recurrent Neural Networks for Language Modeling in Python
+* Advanced Deep Learning with Keras
 
-### [Multilabel prediction with LSTMs (Python)][![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SDS-AAU/M3-2019/blob/master/notebooks/Job_descrition_to_skills_multi_label_prediction_fun.ipynb#&offline=true&sandboxMode=true)
+### Additional:
 
-## Part IV: Advanced Neural network Applications & Outlook
-
-### [LSTM for Sequence-2S-Sequence prediction (R)](https://raw.githack.com/SDS-AAU/M3-2019/master/notebooks/M3_9_seq2seq_LSTM.html) [-> OPEN ON KAGGLE](https://www.kaggle.com/danielhain/sds-m3-9-seq2seq-lstm)
-
- 
-## Tutorials & Knowledge
-
-### Deep Learning general
-
- * [3Blue1Brown Visual Introduction to Neural networks]( https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
- * [State of the art DL NLP example - :hugs: Huggingface](https://huggingface.co/)
- 
-### Deep Learning in R
-
-* [R-Keras (RStudio)](https://keras.rstudio.com/)
+* [3Blue1Brown Visual Introduction to Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+* [SOTA Language Processing](https://huggingface.co/)
+* [Keras](https://keras.io/)
+* [R-Keras](https://keras.rstudio.com/)
+* [fast.ai](https://www.fast.ai/)
+* [Machinelearningmastery](https://machinelearningmastery.com/category/deep-learning/)
