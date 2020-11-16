@@ -1,7 +1,5 @@
 # M3 - Deep Learning Workshop 1
 
-* [Python notebook RJ](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-2020/blob/master/M3/workshop1/M3_W1_AirBnb.ipynb)
-* [R notebook DSH](https://sds-aau.github.io/SDS-master/M3/exercises/ANN_workshop.nb.html)
 
 In this workshop will revisit the [AirBnb dataset](http://data.insideairbnb.com/denmark/hovedstaden/copenhagen/2020-06-26/data/listings.csv.gz) that we used in M1. 
 
@@ -32,3 +30,4 @@ Try to implement them on your data.
 ## R example
 
 * [Html](https://sds-aau.github.io/SDS-master/M3/exercises/ANN_workshop.nb.html)
+* [Python notebook RJ](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-2020/blob/master/M3/workshop1/M3_W1_AirBnb.ipynb)
