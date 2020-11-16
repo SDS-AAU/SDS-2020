@@ -27,7 +27,7 @@ This part is related to 2. Explore the training process (over the epochs). Explo
 Try to implement them on your data.
 
 
-## R example
+## Example notebooks
 
 * [Html](https://sds-aau.github.io/SDS-master/M3/exercises/ANN_workshop.nb.html)
 * [Python notebook RJ](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-2020/blob/master/M3/workshop1/M3_W1_AirBnb.ipynb)
