@@ -5,8 +5,7 @@ Introduces to the most recent developments in machine learning, which are deep l
 
 ## Neural networks: Theory, history and application
 
-* Theory 1: Introduction to Artificial Neural Networks (ANNs) & Deep Learning (DL): [Video](https://www.loom.com/share/418cea49ec694fe4b42e99088bfdbb84) [Slides](https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_intro.html) 
-* Theory 2: Architecture and learning of ANNs): Video [1: NN building blocks](https://www.loom.com/share/9e3f85b4a3384fc7afdbae6fb2ed1451) [2: Learning in NNs (comming soon)](xxxxxxxxx) [Slides](https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_learning.html) 
+* Theory: Introduction to Artificial Neural Networks (ANNs) & Deep Learning (DL): [Video](https://www.loom.com/share/418cea49ec694fe4b42e99088bfdbb84) [Slides](https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_intro.html) 
 
 * Architecture: Neurons, weights, biases, losses
 * Dynamics: feed-forward, back-propagation
@@ -17,6 +16,11 @@ Introduces to the most recent developments in machine learning, which are deep l
 * Application: Images &B Penguins (R) Video [1: Intro](https://www.loom.com/share/b84e8e5228034031b0febe40a01f5e22) [2: Details & Tabular Data Example](https://www.loom.com/share/0b4e1a4d456e46388eb2afd30be369fd) [Html](https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_application_R.nb.html)
 
 ## Convolutional neural networks (CNNs)
+* Theory [Video]() [Slides](https://sds-aau.github.io/SDS-master/tree/master/M3/slides/cnn)
+* Application - Dogs&Cats Py[Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/M3_CNN_Intro_Cats%26Dogs.ipynb)
+* Application - Transfer Learning Py[Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/CNN_and_transfer_learning.ipynb)
+* Application - Best Practice with Fast.ai Py[Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/CNN_with_fast_ai.ipynb)
+
 
 ## Recurrent neural networks (RNNs / LSTMs)
 
