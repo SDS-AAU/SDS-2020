@@ -13,9 +13,15 @@ You will get 2 hours to work on that in groups. We're happy to answer questions 
 - You can use transfer learning if you like
 
 ## 2. Model explainability
+
 - Using LIME, try to understand where the model breaks.
+
+
+Resources:
+
+* Python
     - [LIME package - Py](https://github.com/marcotcr/lime)
     - [LIME via ELI5 -Py](https://eli5.readthedocs.io/en/latest/tutorials/keras-image-classifiers.html)
-    - [LIME R]()
-
-
+ * R
+    - [LIME R](https://lime.data-imaginist.com/index.html)
+    - [Lime example image data](https://blogs.rstudio.com/ai/posts/2018-03-09-lime-v04-the-kitten-picture-edition/)
