@@ -5,7 +5,8 @@ Introduces to the most recent developments in machine learning, which are deep l
 
 ## Neural networks: Theory, history and application
 
-* Theory: Introduction to Artificial Neural Networks (ANNs) & Deep Learning (DL): [Video](https://www.loom.com/share/418cea49ec694fe4b42e99088bfdbb84) [Slides](https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_intro.html) 
+* Theory 1: Introduction to Artificial Neural Networks (ANNs) & Deep Learning (DL): [Video](https://www.loom.com/share/418cea49ec694fe4b42e99088bfdbb84) [Slides](https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_intro.html) 
+* Theory 2: Architecture and learning of ANNs): Video [1: NN building blocks](https://www.loom.com/share/9e3f85b4a3384fc7afdbae6fb2ed1451) [2: Learning in NNs (comming soon)](xxxxxxxxx) [Slides](https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_learning.html) 
 
 * Architecture: Neurons, weights, biases, losses
 * Dynamics: feed-forward, back-propagation
