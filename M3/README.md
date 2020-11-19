@@ -19,7 +19,8 @@ Introduces to the most recent developments in machine learning, which are deep l
    * Application - Transfer Learning Py[Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/CNN_and_transfer_learning.ipynb)
    * Application - Best Practice with Fast.ai Py[Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/CNN_with_fast_ai.ipynb)
 * Application R
-   * Application - Dogs&Cats [Video (comming soon)](xxxxxx) [2: Details & Tabular Data Example](https://www.loom.com/share/0b4e1a4d456e46388eb2afd30be369fd) [Html (work in progress)](https://sds-aau.github.io/SDS-master/M3/notebooks/CNN_application_R.nb.html)
+   * Application - Dogs&Cats [Video (comming soon)](xxxxxx) [Html (work in progress)](https://sds-aau.github.io/SDS-master/M3/notebooks/CNN_application_R.nb.html)
+
 
 ## Recurrent neural networks (RNNs / LSTMs)
 
