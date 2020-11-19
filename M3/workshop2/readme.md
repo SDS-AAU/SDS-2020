@@ -23,5 +23,6 @@ Resources:
     - [LIME package - Py](https://github.com/marcotcr/lime)
     - [LIME via ELI5 -Py](https://eli5.readthedocs.io/en/latest/tutorials/keras-image-classifiers.html)
  * R
+    - [Starter Notebook in Colab](https://github.com/SDS-AAU/SDS-master/blob/master/M3/exercises/CNN_workshop_R.ipynb)
     - [LIME R](https://lime.data-imaginist.com/index.html)
     - [Lime example image data](https://blogs.rstudio.com/ai/posts/2018-03-09-lime-v04-the-kitten-picture-edition/)
