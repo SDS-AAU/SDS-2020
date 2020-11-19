@@ -14,10 +14,12 @@ Introduces to the most recent developments in machine learning, which are deep l
 
 ## Convolutional neural networks (CNNs)
 * Theory [Video](https://www.loom.com/share/fc90e00255e5492986c0026f2ae8b9c6?sharedAppSource=personal_library) [Slides](https://sds-aau.github.io/SDS-master/M3/slides/cnn/)
-* Application - Dogs&Cats Py[Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/M3_CNN_Intro_Cats%26Dogs.ipynb) [Video](https://www.loom.com/share/a1747302f2d449ae99b6b5ef06a45e37)
-* Application - Transfer Learning Py[Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/CNN_and_transfer_learning.ipynb)
-* Application - Best Practice with Fast.ai Py[Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/CNN_with_fast_ai.ipynb)
-
+* Application Python
+   * Application - Dogs&Cats Py[Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/M3_CNN_Intro_Cats%26Dogs.ipynb) [Video](https://www.loom.com/share/a1747302f2d449ae99b6b5ef06a45e37)
+   * Application - Transfer Learning Py[Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/CNN_and_transfer_learning.ipynb)
+   * Application - Best Practice with Fast.ai Py[Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/CNN_with_fast_ai.ipynb)
+* Application R
+   * Application - Dogs&Cats [Video (comming soon)](xxxxxx) [2: Details & Tabular Data Example](https://www.loom.com/share/0b4e1a4d456e46388eb2afd30be369fd) [Html (work in progress)](https://sds-aau.github.io/SDS-master/M3/notebooks/CNN_application_R.nb.html)
 
 ## Recurrent neural networks (RNNs / LSTMs)
 
