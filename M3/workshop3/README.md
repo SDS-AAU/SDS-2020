@@ -14,4 +14,5 @@ Data sources could be:
    * interest rates or other maro data
    * Weather or other natural phenomenon data (eg. earthquakes)
    
- Feel free to use
+* Feel free to use kaggle etc notebooks as inspiration.
+* Please work in notebooks, and be ready to present your process throughout and at the end of the workshop.
