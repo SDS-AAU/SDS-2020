@@ -1,6 +1,5 @@
 # Trump vs. GPT-2
 
-
 ### SDS 2020 - Module 3: Individual Assignment
 
 
