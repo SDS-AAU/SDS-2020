@@ -3,7 +3,6 @@
 
 ### SDS 2019 - Module 3: Individual Assignment
 
-Deadline: 18/11 - 2019
 
 The site [https://faketrump.ai/](https://faketrump.ai/) is an interesting example of AI-powered fake-text generation. They write:
 
@@ -80,10 +79,9 @@ If you want to build such a simple model as a baseline - that’s fine, but we d
 
 ### Deliverables
 
-Please submit a PDF or HTML version of your notebook on peergrade.io (if you submit HTML, please zip it before - large embedded HTMLs from cause crashing when opened directly in peergrade). In addition, include a link to a functioning google Colab notebook or Kaggle kernel (mandatory). Please make sure it runs without errors and others can access it (i.e. own test in “anonymous” setting in your browser).
+Please submit a PDF or HTML version of your notebook on peergrade.io (if you submit HTML, please zip it before - large embedded HTMLs from cause crashing when opened directly in peergrade). Please make sure it runs without errors and others can access it (i.e. own test in “anonymous” setting in your browser).
 
 This notebook should:
-
 
 *   solve the questions in a straightforward and elegant way.
 *   contain enough explanations to enable your fellow students (or others on a similar level of knowledge) to clearly understand what you are doing, why, what is the outcome, how to interpret it, and how to reconstruct the exercise. Be specific and understandable, but brief.
