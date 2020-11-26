@@ -16,7 +16,7 @@ Data sources could be:
    
 
 * Please work in notebooks, and be ready to present your process throughout and at the end of the workshop.
-* Feel free to use kaggle etc notebooks as inspiration. 
+* Feel free to use kaggle notebooks, Keras documentation etc. as inspiration. 
 
 ![alt_text](https://pbs.twimg.com/media/EI7DWlmXsAAwCte?format=jpg&name=4096x4096)
 
