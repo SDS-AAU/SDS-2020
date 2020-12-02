@@ -25,7 +25,7 @@ You are asked to hand in two different report formats, namely:
 
 ### Computational Notebook
 The notebook targets a **machine-learning literate audience**. Here you can go deeper into the technical details and method considerations. Provide thorough documentation of the whole process, the used methods. Describe the **intuition** behind the selected and used methods, **justify** choices made, and **interpret** results (e.g. Why scaling? Why splitting the data? Why certain tabulations and visualizations? What can be seen from ... ?, How did you select a particular algorithm? Why did you scale features in one way or another?). 
-Please provide the notebook as a PDF ot HTML (Knittered from rmd or converted ipynb, when HTML zipped) with a public link to a functional Colab version (test it beforehand in incognito/private mode of your browser)
+Please provide the notebook as a PDF ot HTML (Knittered from rmd or converted ipynb, when HTML zipped), optionally with a public link to a functional Colab version 
 
 #### Stakeholder Report
 The stakeholder report (simple PDF or HTML, no code) summarises the analysis for a **non-technical audience**. Here you don't need to discuss alternative approaches to standardization and alike. Instead, you should try to explain the analysis and results, emphasizing its meaning and interpretation. Imagine it as a report of the **project outcome**, as you would explain it to a general audience. 
