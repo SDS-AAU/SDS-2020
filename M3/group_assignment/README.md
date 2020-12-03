@@ -25,10 +25,12 @@ You are asked to hand in two different report formats, namely:
 
 ### Computational Notebook
 The notebook targets a **machine-learning literate audience**. Here you can go deeper into the technical details and method considerations. Provide thorough documentation of the whole process, the used methods. Describe the **intuition** behind the selected and used methods, **justify** choices made, and **interpret** results (e.g. Why scaling? Why splitting the data? Why certain tabulations and visualizations? What can be seen from ... ?, How did you select a particular algorithm? Why did you scale features in one way or another?). 
+
 Please provide the notebook as a PDF ot HTML (Knittered from rmd or converted ipynb, when HTML zipped), optionally with a public link to a functional Colab version 
 
 #### Stakeholder Report
 The stakeholder report (simple PDF or HTML, no code) summarises the analysis for a **non-technical audience**. Here you don't need to discuss alternative approaches to standardization and alike. Instead, you should try to explain the analysis and results, emphasizing its meaning and interpretation. Imagine it as a report of the **project outcome**, as you would explain it to a general audience. 
+
 Aim at a length of **not more than 5 pages**, including tables & visualizations.
 
 #### Be creative: Mix up your data
@@ -45,9 +47,7 @@ If you plan to work with deep learning as your semester project, you are welcome
 <!---
 ## Finally
 
-* Submission deadline: **Friday, 29 November 2019, 23:55**. 
-* Evaluation seminar: **Tuesday, 10. December 2019**. Technical details regarding the submission and evaluation of the assignment will be sent out in the beginning of next week.
-* We will send out a doodle to accommodate your schedules as well find proper alignment for R vs Python groups.
-* In case of trouble/issues/questions, please write on Slack. When possible, try to get help from your classmates in the *#module3-assignment-clinique channel*. We will also take a look at what's happening there.
+* Submission deadline: **Wednesday, 9 December 2020, 12:00 **. 
+* Evaluation seminar: **Tuesday, 10. December 2019**. 
 --->
 
