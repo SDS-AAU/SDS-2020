@@ -39,6 +39,10 @@ Introduces to the most recent developments in machine learning, which are deep l
 * Autoencoders / Seq2seq models
 * Transformers
 
+# Final assignment
+
+* To be found [here](https://github.com/SDS-AAU/SDS-2020/blob/master/M3/group_assignment/README.md)
+
 ## Prep:
 
 ### Datacamp:
