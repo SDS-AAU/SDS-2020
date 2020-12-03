@@ -46,6 +46,6 @@ If you plan to work with deep learning as your semester project, you are welcome
 
 ## Finally
 
-* Submission deadline: **Wednesday, 9 December 2020, 12:00 **. 
+* Submission deadline: **Wednesday, 9 December 2020, 23:59 **. 
 
 
