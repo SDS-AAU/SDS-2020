@@ -44,10 +44,8 @@ Consider looking into research papers from conferences such as Social Informatic
 If you plan to work with deep learning as your semester project, you are welcome to use the M3 group assignment as a warm-up.
 
 
-<!---
 ## Finally
 
 * Submission deadline: **Wednesday, 9 December 2020, 12:00 **. 
-* Evaluation seminar: **Tuesday, 10. December 2019**. 
---->
+
 
