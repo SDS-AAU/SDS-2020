@@ -36,8 +36,9 @@ Introduces to the most recent developments in machine learning, which are deep l
 ## Methodological outlook (Examples)
 
 * Methodological outlook
-   * Sequence-2-sequence prediction:
-   * Transformers 1:
+   * Multivariate-multi-step LSTM [Colab](https://github.com/SDS-AAU/SDS-master/blob/master/M3/notebooks/Multivariate_time_series_LSTM_easy.ipynb)
+   * Autoencoder examples and anomaly detection [Colab](https://github.com/SDS-AAU/SDS-master/blob/master/M3/notebooks/Autoencoder_SDS.ipynb)
+   * GTP2 finetuning and Text generation [Colab](https://github.com/SDS-AAU/SDS-master/blob/master/M3/notebooks/GPT2_textgeneration.ipynb) 
    * Transformers 2: SBERT for similarity calculation [Colab](https://github.com/SDS-AAU/SDS-master/blob/master/M3/exercises/Claim_Similarity_and_Classification_SBERT_KNN.ipynb)
 
 
