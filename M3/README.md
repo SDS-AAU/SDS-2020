@@ -29,6 +29,8 @@ Introduces to the most recent developments in machine learning, which are deep l
 
 * Application R
    * Application - Basics & IMDB reviews Video [1: Intro](https://www.loom.com/share/eaf2f07b85ef498fbf7a356ad25e9ee9) [2: RNN](https://www.loom.com/share/36ac6f7d36fa4c16b6df77dcdb2135b9)  [Html](https://sds-aau.github.io/SDS-master/M3/notebooks/RNN_application_R.nb.html) 
+   * Application: Simple time series forecast of stock prices[Html](https://sds-aau.github.io/SDS-master/M3/exercises/LSTM_workshop_stock_prediction_R.nb.html)
+      
 * Application Python
    * Simple time series prediction [Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-2020/blob/master/M3/notebooks/SimpleLSTM_timeseries.ipynb) [Video](https://www.loom.com/share/ac7d5a60b72a4e5d9c7ac03c38aa6401)
    * BiLSTM Language Classification with IMDB reviews [Video](https://www.loom.com/share/ee51f2982a34497eafa5ae77238d72ea) [Colab](https://github.com/SDS-AAU/SDS-master/blob/master/M3/notebooks/bidirectional_lstm_imdb.ipynb)
