@@ -33,6 +33,13 @@ Introduces to the most recent developments in machine learning, which are deep l
    * Simple time series prediction [Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-2020/blob/master/M3/notebooks/SimpleLSTM_timeseries.ipynb) [Video](https://www.loom.com/share/ac7d5a60b72a4e5d9c7ac03c38aa6401)
    * BiLSTM Language Classification with IMDB reviews [Video](https://www.loom.com/share/ee51f2982a34497eafa5ae77238d72ea) [Colab](https://github.com/SDS-AAU/SDS-master/blob/master/M3/notebooks/bidirectional_lstm_imdb.ipynb)
 
+# MEthodological outlook (Examples)
+
+* Methodological outlook
+   * Sequence-2-sequence prediction:
+   * Transformers 1:
+   * Transformers 2: SBERT for similarity calculation [Colab](https://github.com/SDS-AAU/SDS-master/blob/master/M3/exercises/Claim_Similarity_and_Classification_SBERT_KNN.ipynb)
+
 
 # Advanced architectures
 
