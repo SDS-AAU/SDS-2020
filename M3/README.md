@@ -43,7 +43,7 @@ Introduces to the most recent developments in machine learning, which are deep l
    * GTP2 finetuning and Text generation [Colab](https://github.com/SDS-AAU/SDS-master/blob/master/M3/notebooks/GPT2_textgeneration.ipynb) 
    * Transformers 2: SBERT for similarity calculation [Colab](https://github.com/SDS-AAU/SDS-master/blob/master/M3/exercises/Claim_Similarity_and_Classification_SBERT_KNN.ipynb)
    
-   * M3 Outlook - part 1 [Video](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=a0c0c8af-dfe3-4ad6-a39c-ac8a00d44903&fbclid=IwAR1RpYvhiWcw9Luxj_iz4PH22ZPLueHEMEHPF3OawbmH-lFgEyeYY3BIBmI)
+   * M3 Outlook - part 1 [Video](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=a0c0c8af-dfe3-4ad6-a39c-ac8a00d44903&fbclid=IwAR1RpYvhiWcw9Luxj_iz4PH22ZPLueHEMEHPF3OawbmH-lFgEyeYY3BIBmI) 
    * M3 Outlook - part 2 [Video](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=a19e8783-7327-4fc0-b2b0-ac8700ec172e)
 
 
